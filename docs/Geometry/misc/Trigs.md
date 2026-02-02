@@ -24,7 +24,7 @@ $$
 
 ## Angle summation
 
-This directely follows from Euler's formula:
+This directly follows from Euler's formula:
 
 $$
 \begin{align*}

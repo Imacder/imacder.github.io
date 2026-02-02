@@ -1,4 +1,4 @@
-# Basic Struture
+# Basic Structure
 
 This is the MOST basic structures in this [Line Construction](../index.md). Everything else stems from here.
 
@@ -10,15 +10,15 @@ This is the MOST basic structures in this [Line Construction](../index.md). Ever
 2. $DE \parallel AB$
 3. $\frac{CD}{AD} = \frac{CE}{BE}$ (this is derived from the first)
 
-Any single property (except SSA case) can be used to derive the other poperties
+Any single property (except SSA case) can be used to derive the other properties
 
 ## Use Case
 
-* Used when the segments in the ratio are **COLINEAR** &rArr; construct parallel lines with one end being the ratio.
-* Used when the segemnts in the ratio are **PARALLEL** &rArr; extend the end vecticies to intersect.
+* Used when the segments in the ratio are **COLLINEAR** &rArr; construct parallel lines with one end being the ratio.
+* Used when the segments in the ratio are **PARALLEL** &rArr; extend the end vertices to intersect.
 * Used when the segments in the ratio have a **common vertex** &rArr; construct parallel line of the segment of non-common vertex. 
 
-This basically covers everything, which is expected, as this can subsitute analytic geometry.
+This basically covers everything, which is expected, as this can substitute analytic geometry.
 
 <script>
   window.MathJax = {

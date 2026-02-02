@@ -3,7 +3,7 @@ title: Introduction
 ---
 
 I've always looked for a general strategy to solve geometry problems beside converting it into pure algebra.
-Rencently, I've had some breakthroughs in developing such a strategy, particularlly in rotation & linear transformation.
+Recently, I've had some breakthroughs in developing such a strategy, particularly in rotation & linear transformation.
 
 
 This section includes some of my results. I'll keep expanding this section to include more. 

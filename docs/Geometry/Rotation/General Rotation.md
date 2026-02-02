@@ -8,11 +8,11 @@ This is an idea, rather than actual construction. So some of the construction is
 ## Construction
 
 1. [Construct the rotational center for one edge](Basic%20Rotation.md#finding-rotational-center).
-2. Connect verticies to the rotational center, and use [Basic Rotation](./Basic%20Rotation.md).
+2. Connect vertices to the rotational center, and use [Basic Rotation](./Basic%20Rotation.md).
 
 ## Basic Idea
 
-Sometimes the connection to rotational center is unecessarry. However, we usually do need to know that the figure in question DOES contain such an rotation. Usually, either only constructing the rotated triangle or using the center of rotation will yield a solution. But in special circumstances, the only way forward is with the rotational center.
+Sometimes the connection to rotational center is unnecessary. However, we usually do need to know that the figure in question DOES contain such a rotation. Usually, either only constructing the rotated triangle or using the center of rotation will yield a solution. But in special circumstances, the only way forward is with the rotational center.
 
 ## Examples
 

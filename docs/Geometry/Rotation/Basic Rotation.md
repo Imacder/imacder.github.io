@@ -54,17 +54,17 @@ If S is the same as $A / B / C / D$, then construct tangent circles (in property
 
 ## Examples
 
-1. To add / substract segments:
+1. To add / subtract segments:
     * 《核心考点·中考数学》P34 06
-    * Tolemy's Theorem
+    * Ptolemy's Theorem
 2. (P)oint in Triangle:
-    * Idea: connect $PA ,\, PB ,\, PC$, then rotate appropriate traangle out (e.g. $\triangle ABP \rightarrow \triangle BCP'$)
+    * Idea: connect $PA ,\, PB ,\, PC$, then rotate appropriate triangle out (e.g. $\triangle ABP \rightarrow \triangle BCP'$)
     * P34 07 08
     * Fermat's Point
     * P42
 3. derivation 1: P34 05
 4. derivation 2: P34 06
-5. derviation 3: R4
+5. derivation 3: R4
 
 <script>
   window.MathJax = {

@@ -1,6 +1,6 @@
 # Linear Algebra
 
-## How to Derive Tranformation Matricies
+## How to Derive Transformation Matrices
 
 1. Start out with the basis vectors $\hat{\mathbf{x}} ,\, \hat{\mathbf{y}}$ </br>
 2. Find their transformed results: $\hat{\mathbf{x}} \rightarrow \mathbf{u} ,\, \hat{\mathbf{y}} \rightarrow \mathbf{v}$
