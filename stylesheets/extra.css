@@ -1,0 +1,4 @@
+/* Make main content wider */
+.md-grid {
+  max-width: 95%;
+}
