@@ -1,0 +1,29 @@
+site_name: My Docs
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_css:
+  - stylesheets/extra.css
+copyright: >
+    Copyright &copy; 2026-present Imacder. All rights reserved.
+plugins:
+  - search
+  - git-revision-date:
+      enable_creation_date: true
+      type: timeago
+extra:
+  recent_pages: 5  # Number of recent pages to show
