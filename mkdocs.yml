@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Imacder's Notes
 theme:
   name: material
   features:
@@ -22,8 +22,5 @@ copyright: >
     Copyright &copy; 2026-present Imacder. All rights reserved.
 plugins:
   - search
-  - git-revision-date:
-      enable_creation_date: true
-      type: timeago
-extra:
-  recent_pages: 5  # Number of recent pages to show
+  - recently-updated:
+      limit: 6

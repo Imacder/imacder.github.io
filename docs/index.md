@@ -7,6 +7,8 @@ title: Home
 
 # Recent Updates
 
+<!-- RECENTLY_UPDATED_DOCS -->
+
 ---
 
 # [Geometry](Geometry/index.md)
