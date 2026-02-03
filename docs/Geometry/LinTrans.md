@@ -31,7 +31,7 @@ where $\theta$ is the angle between x-axis and reflection axis. </br>
 See [Trigonometry](misc/Trigs.md#angle-summation) for calculation of $\cos(2\theta) \, \sin(2\theta)$ with $\cos(\theta) \, \sin(\theta)$. </br>
 For reflection about any line, first do a translation then apply this matrix then translate back.
 
-### [How to Derive These Matrices](misc/Linalg.md#how-to-derive-tranformation-matricies)
+### [How to Derive These Matrices](misc/Linalg.md#how-to-derive-transformation-matrices)
 
 ### Note
 
