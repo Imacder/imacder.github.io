@@ -19,7 +19,9 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 copyright: >
-    Copyright &copy; 2026-present Imacder. All rights reserved.
+  Content licensed under 
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.
+  Copyright &copy; 2026-present Imacder. All rights reserved.
 plugins:
   - search
   - recently-updated:
