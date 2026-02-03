@@ -57,18 +57,18 @@ Properties:
 
 which is basically Apollonius Theorem.
 
-### Co-vertex
+## Co-vertex
 
 This is when $\angle COD = \frac{1}{2} \angle AOB$, where $\triangle AOB$ is an isosceles triangle.
 
-#### Basic Idea
+### Basic Idea
 
 (graph)
 
 Just rotate $\angle AOC$ (and the triangle it's in) about $O$ to $\angle BOD$, then $OD \,\text{bisects}\, \angle COD$.
 Make use of the symmetry in the angle bisector.
 
-#### Recognition
+### Recognition
 
 This is the hardest part of the Co-vertex type.
 
@@ -79,3 +79,9 @@ Properties:
 1. The circumcenter $I$ of $\triangle BOC$ is on OC.
 2. If $\angle AOB = 90^\circ$, $OEFBC$ are all on $\odot I$
 
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
