@@ -5,13 +5,15 @@
 In most cases, two angles with a ratio of 2 can be constructed to give either an angle bisector or an isosceles triangle (or both.)
 An isosceles triangle would be preferable, as it already gives a very simple side relationship ($AB = AC$)
 
+<iframe src="https://www.geogebra.org/calculator/hhk3yxhe?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 ## Angle Bisector
 
 ### Symmetry Construct
 
 This the simplest form of half angle.The figure is symmetric about the angle bisector, so make full use of its symmetry.
 
-(whatever)
+<iframe src="https://www.geogebra.org/calculator/me3gusju?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 #### Properties:
 
@@ -32,18 +34,18 @@ Let $OC \,\text{bisects}\, \angle AOB$.
 Construct $BD \parallel OC$ intersects $AO$ at $D$. (Construct line parallel to bisector.) </br>
 &rArr; $OD = OB$
 
-(graph)
+<iframe src="https://www.geogebra.org/calculator/tpvykymg?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 #### Method 2
 
 Construct $BD \parallel OA$ intersects $OC$ at $D$. (Construct line parallel to side.) </br>
 &rArr; $BO = BD$
 
-(graph)
+<iframe src="https://www.geogebra.org/calculator/aspz2u37?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ### Angle Bisector Theorem
 
-(graph)
+<iframe src="https://www.geogebra.org/calculator/yunbeav7?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 Construction: 
 
@@ -63,7 +65,7 @@ This is when $\angle COD = \frac{1}{2} \angle AOB$, where $\triangle AOB$ is an 
 
 ### Basic Idea
 
-(graph)
+<iframe src="https://www.geogebra.org/calculator/wrdqferm?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 Just rotate $\angle AOC$ (and the triangle it's in) about $O$ to $\angle BOD$, then $OD \,\text{bisects}\, \angle COD$.
 Make use of the symmetry in the angle bisector.
@@ -72,7 +74,7 @@ Make use of the symmetry in the angle bisector.
 
 This is the hardest part of the Co-vertex type.
 
-(graph)
+<iframe src="https://www.geogebra.org/calculator/yxpq7gsv?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 Properties:
 
