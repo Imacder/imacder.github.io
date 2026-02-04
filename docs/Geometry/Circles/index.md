@@ -12,3 +12,4 @@ Circles can be constructed with rotated angles, therefore nearly any rotation wi
 It can also be used to construct rotations backwards.
 
 Circles have connection to a triangle's various centers. Many of those centers' properties need circle + similar triangles for derivation.
+These are the hardest kinds of problems in circle geometry.
