@@ -4,7 +4,7 @@ You might find that simply using the [Basic Structure](Basic%20Structure.md) doe
 find another segment that intersects the current and can link to another itself). Then try moving both of them out together,
 namely, using dilation, to a scale where other conditions can be put into use.
 
-(graph)
+<iframe src="https://www.geogebra.org/calculator/pa72u5hv?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Properties
 
@@ -14,7 +14,7 @@ $$ \frac{AB}{BC} = \frac{A'B'}{B'C'} $$
 
 Used when two segments share a vertex, and a line goes through one of the three vertices (preferably the shared one).
 
-
+Also, this method doesn't require the segments to be collinear (though most of the time they are.)
 
 <script>
   window.MathJax = {
