@@ -2,7 +2,7 @@
 
 You might find that simply using the [Basic Structure](Basic%20Structure.md) doesn't yield any results (this happens whenever you can't 
 find another segment that intersects the current and can link to another itself). Then try moving both of them out together,
-namely, using dilation.
+namely, using dilation, to a scale where other conditions can be put into use.
 
 (graph)
 
