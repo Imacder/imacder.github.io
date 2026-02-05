@@ -2,6 +2,8 @@
 
 This is basically a cheatsheet of all the useful structures.
 
+## List
+
 1. [Fixed Length &rArr; Circle](Circles/Basic%20Structures.md#fixed-length)
 2. [Fixed Angle + Fixed Length &rArr; Circle](Circles/Basic%20Structures.md#fixed-angle)
 3. [Fixed Ratio to Fixed Endpoints &rArr; Circle](Circles/Basic%20Structures.md#fixed-ratio-fixed-length)
