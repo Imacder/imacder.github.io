@@ -65,6 +65,29 @@ Extend $AO ,\, AH$ to intersect $\odot O$ at $D ,\, E$, then:
    Derivation: Extend $BO$ to intersect $\odot O$ at $P$, then $\triangle ABP \sim \triangle DAC$
 3. If $\angle BAC = 60^\circ$, then $AO = AH$.
 
+## Other Centers
+
+These centers are not strictly related to the circle.
+
+### Centroid
+
+Let the centroid be $G$. 
+
+#### Property
+
+Extend $AG$ to intersect $BC$ at $D$, then $AG = 2DG$.
+
+### Fermat's Point
+
+Let the Fermat's point be $P$.
+
+#### Properties
+
+1. Of all points in the plane, $P$ minimizes $AP + BP + CP$. (Derived through [rotation](../Rotation/Basic%20Rotation.md))
+2. $\angle APB = \angle BPC = \angle APC = 120^\circ$
+3. Construction of $P$: Construct equilateral triangles with $AB ,\, BC ,\, AC$ as sides, 
+    then connect the other vertex of the equilateral triangle with the other vertex of $\triangle ABC$. Their intersection is $P$.
+
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
