@@ -16,3 +16,9 @@ Given a point $P$, the center of reflection $O$, and the radius of reflection $r
 
 The reflected point $P'$ is on ray $\overset{\Large\rightarrow}{OP}$, and $OP \cdot OP' = r^2$.
 
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
