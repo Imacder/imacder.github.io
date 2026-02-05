@@ -62,7 +62,7 @@ where $C$ cannot satisfy being on the circle (so ratio is correct) and the other
 the minimum.
 
 However, this is not the standard way to solve the problem. Most of the time, we can construct a rotation (or some other similar triangle) to transform the
-ratio into a distance. Then we can use methods like reflection about circle or something to find the path of one end.
+ratio into a distance. Then we can use methods like [reflection about circle](../Basic%20Structures.md#reflection-about-circle) or something to find the path of one end.
 
 
 ## Equal Angles

@@ -11,7 +11,7 @@ This section includes some of my results. I'll keep expanding this section to in
 Basic Division:
 
 * [Linear Transformation](LinTrans.md) (LinTrans)
-* Basic Structures (including some nonlinearties) (BS)
+* [Basic Structures](Basic%20Structures.md) (including some nonlinearties) (BS)
 * [Rotations](Rotation/Basic%20Rotation.md) (rot)
 * [Half-angle Constructions](Half%20Angle%20Construction.md) ($\frac{\alpha}{2}$)
 * [Line Construction](Line%20Construction/index.md)
@@ -19,7 +19,7 @@ Basic Division:
     - [Intersecting Lines](Line%20Construction/Intersecting%20Lines/index.md)
 * [Circles](Circles/index.md)
     - [Basics](Circles/Basic%20Structures.md) (circ)
-    - Centers of a Triangle
+    - [Centers of a Triangle](Circles/Centers%20of%20Triangle.md)
 
 <script>
   window.MathJax = {
