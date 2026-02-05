@@ -16,6 +16,18 @@ Given a point $P$, the center of reflection $O$, and the radius of reflection $r
 
 The reflected point $P'$ is on ray $\overset{\Large\rightarrow}{OP}$, and $OP \cdot OP' = r^2$.
 
+### Properties and Derivation
+
+<iframe src="https://www.geogebra.org/calculator/jwm9xyet?embed" width="1200" height="700" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+The reflection of a circle is another circle. Here lines are considered circles of $r = \infty$.
+
+Derivation:
+
+1. Construct the diameter ($MN$) of $\odot A$ that goes through $O$ &rArr; $\angle MPN = 90^\circ$
+2. Construct the reflection ($M'N'$) of $MN$ &rArr; $\triangle OPM \sim \triangle OM'P' ,\, \triangle OPN \sim \triangle ON'P'$
+3. $\angle M'P'N' = 90^\circ$ &rArr; $P'$ is on a circle with diameter $M'N'$
+
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
