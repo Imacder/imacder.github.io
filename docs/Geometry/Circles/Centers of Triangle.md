@@ -34,9 +34,9 @@ $$ \angle AIO = 90^\circ $$
 3. $AB + AC = 2 BC$
 4. Idea 2
 
-## Othocenter
+## Orthocenter
 
-Let the othocenter be $H$, and the foot of the three heights be $I$ (which is on $AB$), $J$ (on $BC$), and $K$ (on $AC$).
+Let the orthocenter be $H$, and the foot of the three heights be $I$ (which is on $AB$), $J$ (on $BC$), and $K$ (on $AC$).
 
 ### Properties of $\triangle IJK$
 
