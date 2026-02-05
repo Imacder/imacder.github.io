@@ -9,10 +9,10 @@
       
       
       
-        <link rel="prev" href="../../Rotation/General%20Rotation/">
+        <link rel="prev" href="../Basic%20Structures/">
       
       
-        <link rel="next" href="../Trigs/">
+        <link rel="next" href="../../Line%20Construction/">
       
       
         
@@ -23,7 +23,7 @@
     
     
       
-        <title>Linear Algebra - Imacder's Notes</title>
+        <title>Centers of a Triangle - Imacder's Notes</title>
       
     
     
@@ -76,7 +76,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#linear-algebra" class="md-skip">
+        <a href="#centers-of-a-triangle" class="md-skip">
           Skip to content
         </a>
       
@@ -110,7 +110,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Linear Algebra
+              Centers of a Triangle
             
           </span>
         </div>
@@ -695,8 +695,10 @@
                 
   
   
+    
   
   
+  
     
     
     
@@ -710,13 +712,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_5" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_5" checked>
         
           
           <label class="md-nav__link" for="__nav_4_5" id="__nav_4_5_label" tabindex="">
@@ -737,7 +737,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_5_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4_5">
             <span class="md-nav__icon md-icon"></span>
             
@@ -755,7 +755,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Circles/" class="md-nav__link">
+      <a href="../" class="md-nav__link">
         
   
   
@@ -783,7 +783,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../Circles/Basic%20Structures/" class="md-nav__link">
+      <a href="../Basic%20Structures/" class="md-nav__link">
         
   
   
@@ -808,10 +808,37 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../Circles/Centers%20of%20Triangle/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Centers of a Triangle
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -827,6 +854,227 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#incenter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Incenter
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Incenter">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#idea" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Idea
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#path" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Path
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#special-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Special Case
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Special Case">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#condition" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Condition
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#properties" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#orthocenter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orthocenter
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Orthocenter">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#properties-of-triangle-ijk" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties of \(\triangle IJK\)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#idea_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Idea
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#properties_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#other-centers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Other Centers
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Other Centers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#centroid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Centroid
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Centroid">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#property" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Property
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fermats-point" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fermat's Point
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Fermat&#39;s Point">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#properties_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -1294,8 +1542,6 @@
                 
   
   
-    
-  
   
   
     
@@ -1311,11 +1557,13 @@
       
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_8" checked>
+          
+        
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_8" >
         
           
           <label class="md-nav__link" for="__nav_4_8" id="__nav_4_8_label" tabindex="">
@@ -1336,7 +1584,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_8_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_8_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_4_8">
             <span class="md-nav__icon md-icon"></span>
             
@@ -1351,37 +1599,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Linear Algebra
-  
-
-    
-  </span>
-  
-  
-
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../../misc/Linalg/" class="md-nav__link">
         
   
   
@@ -1397,37 +1618,6 @@
   
 
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#how-to-derive-transformation-matrices" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        How to Derive Transformation Matrices
-      
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -1440,7 +1630,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Trigs/" class="md-nav__link">
+      <a href="../../misc/Trigs/" class="md-nav__link">
         
   
   
@@ -1503,13 +1693,203 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#how-to-derive-transformation-matrices" class="md-nav__link">
+  <a href="#incenter" class="md-nav__link">
     <span class="md-ellipsis">
       
-        How to Derive Transformation Matrices
+        Incenter
       
     </span>
   </a>
+  
+    <nav class="md-nav" aria-label="Incenter">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#idea" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Idea
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#path" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Path
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#special-case" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Special Case
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Special Case">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#condition" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Condition
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#properties" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#orthocenter" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Orthocenter
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Orthocenter">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#properties-of-triangle-ijk" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties of \(\triangle IJK\)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#idea_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Idea
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#properties_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#other-centers" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Other Centers
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Other Centers">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#centroid" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Centroid
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Centroid">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#property" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Property
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fermats-point" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Fermat's Point
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Fermat&#39;s Point">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#properties_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Properties
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -1530,17 +1910,85 @@
 
 
 
-<h1 id="linear-algebra">Linear Algebra</h1>
-<h2 id="how-to-derive-transformation-matrices">How to Derive Transformation Matrices</h2>
+<h1 id="centers-of-a-triangle">Centers of a Triangle</h1>
+<p>Let the trangle be <span class="arithmatex">\(\triangle ABC\)</span> and its circumcenter be <span class="arithmatex">\(O\)</span>.</p>
+<h2 id="incenter">Incenter</h2>
+<p>Let the triangle's incenter be <span class="arithmatex">\(I\)</span>.</p>
+<h3 id="idea">Idea</h3>
 <ol>
-<li>Start out with the basis vectors <span class="arithmatex">\(\hat{\mathbf{x}} ,\, \hat{\mathbf{y}}\)</span> </br></li>
-<li>Find their transformed results: <span class="arithmatex">\(\hat{\mathbf{x}} \rightarrow \mathbf{u} ,\, \hat{\mathbf{y}} \rightarrow \mathbf{v}\)</span></li>
-<li>Put them together:</li>
+<li><a href="../../Half%20Angle%20Construction/">Half Angle Construction</a></li>
+<li>
+<p>If <span class="arithmatex">\(I\)</span> happens to be a midpoint (<span class="arithmatex">\(D\)</span>) of two points each on <span class="arithmatex">\(AB ,\, AC\)</span> (<span class="arithmatex">\(E,\,F\)</span>), then:</p>
+</li>
+<li>
+<p>This is the special case below</p>
+</li>
+<li>
+<p><span class="arithmatex">\(\triangle BED \sim \triangle DFC\)</span> (midpoint L3A)</p>
+</li>
+<li>
+<p>Construct the tangent points</p>
+</li>
 </ol>
-<div class="arithmatex">\[ \begin{bmatrix} 
--\mathbf{u}- \\ 
--\mathbf{v}-
-\end{bmatrix} \]</div>
+<h3 id="path">Path</h3>
+<p>When <span class="arithmatex">\(\angle A\)</span> is fixed (i.e. A is on a circle), then <span class="arithmatex">\(\angle BIC = 90^\circ + \frac{1}{2} \angle A\)</span> is also a fixed angle.
+Thus, <span class="arithmatex">\(I\)</span> is also on a circle whose center is the midpoint (<span class="arithmatex">\(M\)</span>) of <span class="arithmatex">\(\overset{\Large\frown}{BC}\)</span>.</p>
+<h3 id="special-case">Special Case</h3>
+<h4 id="condition">Condition</h4>
+<div class="arithmatex">\[ \angle AIO = 90^\circ \]</div>
+<h4 id="properties">Properties</h4>
+<ol>
+<li><span class="arithmatex">\(OI\)</span> is tangent to <span class="arithmatex">\(\odot M\)</span>.</li>
+<li>Extend <span class="arithmatex">\(AI\)</span> to intersect BC at <span class="arithmatex">\(D\)</span>, then <span class="arithmatex">\(DI = MI = \frac{1}{2} AI = \frac{1}{4} AM\)</span>.</li>
+<li><span class="arithmatex">\(AB + AC = 2 BC\)</span></li>
+<li>Idea 2</li>
+</ol>
+<h2 id="orthocenter">Orthocenter</h2>
+<p>Let the orthocenter be <span class="arithmatex">\(H\)</span>, and the foot of the three heights be <span class="arithmatex">\(I\)</span> (which is on <span class="arithmatex">\(AB\)</span>), <span class="arithmatex">\(J\)</span> (on <span class="arithmatex">\(BC\)</span>), and <span class="arithmatex">\(K\)</span> (on <span class="arithmatex">\(AC\)</span>).</p>
+<h3 id="properties-of-triangle-ijk">Properties of <span class="arithmatex">\(\triangle IJK\)</span></h3>
+<ol>
+<li>Of all the triangles with points on each of <span class="arithmatex">\(AB,\,BC,\,AC\)</span>, <span class="arithmatex">\(\triangle IJK\)</span> has the least circumference.</li>
+<li><span class="arithmatex">\(H\)</span> is the incenter of <span class="arithmatex">\(\triangle IJK\)</span>.</li>
+<li>
+<p>Concyclic Groups:</p>
+<ul>
+<li><span class="arithmatex">\(ABJK\)</span></li>
+<li><span class="arithmatex">\(BCIK\)</span></li>
+<li><span class="arithmatex">\(ACIJ\)</span></li>
+<li><span class="arithmatex">\(AIKH\)</span></li>
+<li><span class="arithmatex">\(BIJH\)</span></li>
+<li><span class="arithmatex">\(CJKH\)</span></li>
+</ul>
+</li>
+</ol>
+<h3 id="idea_1">Idea</h3>
+<p>Extend <span class="arithmatex">\(AO ,\, AH\)</span> to intersect <span class="arithmatex">\(\odot O\)</span> at <span class="arithmatex">\(D ,\, E\)</span>, then:</p>
+<ol>
+<li>Produces parallelogram <span class="arithmatex">\(BDCH\)</span></li>
+<li><span class="arithmatex">\(BC \parallel DE\)</span></li>
+</ol>
+<h3 id="properties_1">Properties</h3>
+<ol>
+<li>Let the distance from <span class="arithmatex">\(O\)</span> to <span class="arithmatex">\(BC\)</span> be <span class="arithmatex">\(a\)</span>, then <span class="arithmatex">\(AH = 2a\)</span></li>
+<li><span class="arithmatex">\(2r = d = \frac{AB \cdot AC}{AD}\)</span> </br>
+   Derivation: Extend <span class="arithmatex">\(BO\)</span> to intersect <span class="arithmatex">\(\odot O\)</span> at <span class="arithmatex">\(P\)</span>, then <span class="arithmatex">\(\triangle ABP \sim \triangle DAC\)</span></li>
+<li>If <span class="arithmatex">\(\angle BAC = 60^\circ\)</span>, then <span class="arithmatex">\(AO = AH\)</span>.</li>
+</ol>
+<h2 id="other-centers">Other Centers</h2>
+<p>These centers are not strictly related to the circle.</p>
+<h3 id="centroid">Centroid</h3>
+<p>Let the centroid be <span class="arithmatex">\(G\)</span>. </p>
+<h4 id="property">Property</h4>
+<p>Extend <span class="arithmatex">\(AG\)</span> to intersect <span class="arithmatex">\(BC\)</span> at <span class="arithmatex">\(D\)</span>, then <span class="arithmatex">\(AG = 2DG\)</span>.</p>
+<h3 id="fermats-point">Fermat's Point</h3>
+<p>Let the Fermat's point be <span class="arithmatex">\(P\)</span>.</p>
+<h4 id="properties_2">Properties</h4>
+<ol>
+<li>Of all points in the plane, <span class="arithmatex">\(P\)</span> minimizes <span class="arithmatex">\(AP + BP + CP\)</span>. (Derived through <a href="../../Rotation/Basic%20Rotation/">rotation</a>)</li>
+<li><span class="arithmatex">\(\angle APB = \angle BPC = \angle APC = 120^\circ\)</span></li>
+<li>Construction of <span class="arithmatex">\(P\)</span>: Construct equilateral triangles with <span class="arithmatex">\(AB ,\, BC ,\, AC\)</span> as sides, 
+    then connect the other vertex of the equilateral triangle with the other vertex of <span class="arithmatex">\(\triangle ABC\)</span>. Their intersection is <span class="arithmatex">\(P\)</span>.</li>
+</ol>
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
