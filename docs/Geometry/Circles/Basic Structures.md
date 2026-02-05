@@ -80,3 +80,10 @@ This is usually used to relate two equal angles.
 ### Note
 
 All the angle relationships in the circle can be obtained without the circle but with similar triangles.
+
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>

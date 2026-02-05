@@ -65,3 +65,9 @@ Extend $AO ,\, AH$ to intersect $\odot O$ at $D ,\, E$, then:
    Derivation: Extend $BO$ to intersect $\odot O$ at $P$, then $\triangle ABP \sim \triangle DAC$
 3. If $\angle BAC = 60^\circ$, then $AO = AH$.
 
+<script>
+  window.MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
+  };
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
