@@ -42,7 +42,7 @@ $$ \frac{a}{\sin(A)} = \frac{b}{\sin(b)} = \frac{c}{\sin(c)} = d $$
 
 where d is the diameter of the circumcircle. </br>
 Used in AAS / ASA / circum-radius calculation. </br>
-(The derivation of its relationship to d is in Othocenter.)
+(The derivation of its relationship to d is in [Othocenter](../Circles/Centers%20of%20Triangle.md#properties-1).)
 
 Also used for area calculation (or transform triangle area with known angle):
 

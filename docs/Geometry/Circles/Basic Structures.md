@@ -1,0 +1,82 @@
+# Basic Structures
+
+## Fixed Length
+
+This is literally the definition. </br>
+Occurs in some problems involving folding.
+
+## Fixed Angle
+
+### Case 1: With a Fixed Length
+
+In this case, the vertex traces a fixed circle. There's an even more special case, 
+where the angle is $90^\circ$, then the center of the circle is the midpoint of the fixed segment.
+
+#### Examples:
+
+1. Incenter path
+2. Foot of some perpendicular construction (as shown below)
+
+### Case 2: Without Fixed Length
+
+Let $\angle ABC = \theta$. </br>
+In this case, constructing the circum circle might still be useful, as it creates a relationship between $AB$
+and $r_{\odot}$, namely:
+
+$$ AB = 2 \sin(\theta) r_{\odot} $$
+
+#### Examples:
+
+1. Spotlight (shown below)
+2. R5
+
+## Fixed Ratio + Fixed Length
+
+This is Apollonius Circle Theorem (also mentioned in [Half Angle Construction](../Half%20Angle%20Construction.md#angle-bisector-theorem).) </br>
+Obviously you can use the Angle Bisector Theorem to derive this, but there's a better way:
+
+
+
+Let segment be $AB$, and $\frac{CA}{CB} = k$. The $C$ traces $\odot O$.
+
+$$
+\begin{align*}
+& \triangle OCA \sim \triangle OBC \\
+\Rightarrow & \frac{OA}{OC}=\frac{OC}{OB}=\frac{AC}{BC}=k \\
+\Rightarrow & r = \frac{k}{1 - k^2} AB \,\, \text{(assuming k < 1)}
+\end{align*}
+$$
+
+### Examples
+
+#### Minimize Distance
+
+This is the standard application, where the circle is given and $BC$ is given, and you need to construct $AC=kBC$.
+Same method as above.
+
+
+#### Minimize Ratio
+
+Consider what happens when $k$ is decreased from $1$: the radius of the circle also decreases. So there must be a point
+where $C$ cannot satisfy being on the circle (so ratio is correct) and the other constraints of the problem. This is
+the minimum.
+
+However, this is not the standard way to solve the problem. Most of the time, we can construct a rotation (or some other similar triangle) to transform the
+ratio into a distance. Then we can use methods like reflection about circle or something to find the path of one end.
+
+
+## Equal Angles
+
+**Any** two equal angles (except when their legs are parallel) will produce four points that are concyclic.
+
+### Construction
+
+Extend the legs of the two angles so they intersect. The extension may be backwards.
+
+### Application
+
+This is usually used to relate two equal angles.
+
+### Note
+
+All the angle relationships in the circle can be obtained without the circle but with similar triangles.

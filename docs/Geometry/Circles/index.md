@@ -2,7 +2,7 @@
 
 Most circles are hidden inside the figures, they are a crucial yet often overlooked part of geometry problem-solving.
 
-The reason behind its wide usage is how simple it is to construct it, and how there are so many ways to construct it.
+The reason behind its wide usage is how simple it is to [construct](Basic%20Structures.md) it, and how there are so many ways to construct it.
 Any fixed length, fixed angle, equal angles (except when the sides are parallel), fixed ratio will produce a circle.
 Even in scenarios such as the [Co-vertex Half Angle](../Half%20Angle%20Construction.md#co-vertex), there are circles hidden, 
 just because the angle's relationship happens to be right. It also has many properties, serving as a bridge to connects 

@@ -12,18 +12,14 @@ Basic Division:
 
 * [Linear Transformation](LinTrans.md) (LinTrans)
 * Basic Structures (including some nonlinearties) (BS)
-* Rotations (rot)
-* Half-angle Constructions ($\frac{\alpha}{2}$)
-* Line Construction
-    - Parallel Lines
-    - Intersecting Lines
-* Circles
-    - Basics (circ)
+* [Rotations](Rotation/Basic%20Rotation.md) (rot)
+* [Half-angle Constructions](Half%20Angle%20Construction.md) ($\frac{\alpha}{2}$)
+* [Line Construction](Line%20Construction/index.md)
+    - [Parallel Lines](Line%20Construction/Parallel%20Lines/index.md)
+    - [Intersecting Lines](Line%20Construction/Intersecting%20Lines/index.md)
+* [Circles](Circles/index.md)
+    - [Basics](Circles/Basic%20Structures.md) (circ)
     - Centers of a Triangle
-        - incenter (ic)
-        - circumcenter (cc)
-        - othocenter (oc)
-    - some links to other topics
 
 <script>
   window.MathJax = {
