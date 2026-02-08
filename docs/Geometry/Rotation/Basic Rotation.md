@@ -16,6 +16,12 @@ Or you can understand this at segment rotation.
 
 #### Note
 
+When $(O,B,C)$ or $(O,A,B)$ are collinear, then (using $(O,B,C)$ as example):
+1. $OB \cdot OC = OA \cdot OD$
+2. $OA(OB)$ bisects $\angle AOD$
+
+This can be used to transform products when the segments are collinear.
+
 These properties reduce when $(B,C)$ or $(A,D)$ are the same. </br>
 Specifically: 
 
@@ -23,8 +29,9 @@ Specifically:
 2. the 2nd property:
     * $CD$ is tangent to $\odot OAB$
     * $AB$ is tangent to $\odot OCD$
+3. the product turns into a square
 
-For the concyclic properties, see Angle Rotation for more information.
+For the concyclic properties, see [Angle Rotation](../Circles/Basic%20Structures.md#construction) for more information.
 
 ## Finding Rotational Center
 

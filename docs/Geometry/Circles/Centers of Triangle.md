@@ -53,10 +53,11 @@ Let the orthocenter be $H$, and the foot of the three heights be $I$ (which is o
    
 ### Idea
 
-Extend $AO ,\, AH$ to intersect $\odot O$ at $D ,\, E$, then:
+Extend $AO ,\, AH$ to intersect $\odot O$ at $D ,\, E$, $DH$ intersects $BC$ at $F$ then:
 
 1. Produces parallelogram $BDCH$
-2. $BC \parallel DE$
+2. $F$ in the midpoint of BC
+3. $BC \parallel DE$
 
 ### Properties
 

@@ -73,6 +73,8 @@ ratio into a distance. Then we can use methods like [reflection about circle](..
 
 Extend the legs of the two angles so they intersect. The extension may be backwards.
 
+When the vertex of one angle is on another's leg, then that leg is tangent to the circle.
+
 ### Application
 
 This is usually used to relate two equal angles.
