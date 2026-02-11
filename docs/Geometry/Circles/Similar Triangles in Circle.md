@@ -11,6 +11,7 @@ Quadrilateral $ABCD$ is inscribed in $\odot O$. $AC$ and $BD$ intersects at $E$.
 ### Inside Quadrilateral
 
 $$ \triangle ABE \sim \triangle DCE $$
+
 $$ \triangle BCE \sim \triangle ADE $$
 
 These pairs give relationships for segments **INSIDE** the quadrilateral.
@@ -18,6 +19,7 @@ These pairs give relationships for segments **INSIDE** the quadrilateral.
 ### Outside Quadrilateral
 
 $$ \triangle FBC \sim \triangle FDA $$
+
 $$ \triangle FAD \sim \triangle FCB $$
 
 These pairs give relationships for segments **OUTSIDE** the quadrilateral.
