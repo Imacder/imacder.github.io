@@ -5,6 +5,8 @@ most common.
 
 ## Construction
 
+[//]: # (TODO: add graph)
+
 Given a trapezoid $ABCD$ ($AB \parallel CD$). $E ,\, F$ are on $AD ,\, BC$, $\frac{AE}{AD} = \frac{BF}{BC} = k$.
 
 ## Properties

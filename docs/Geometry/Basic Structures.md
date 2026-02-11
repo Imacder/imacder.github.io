@@ -15,7 +15,7 @@ This is basically a cheatsheet of all the useful structures.
 1. Any construction you made must connect ast least 2 conditions. Otherwise, it would be a dangling construction,
     and the amount of information you can get out of this auxiliary constructing is the same as the amount you
     constructed, so you will get no new information.
-2. After constructing auxiliary lines, try to reframe the original problem in the new (simple) figure.
+2. After constructing auxiliary lines, try to reframe the original problem in the new (simpler) figure.
 3. Try to find relationships between all angles and segments to see if there is some special relationship if there
     is no clear path forward.
 4. Try to use transformation to ensure the parts you are trying to relate are in the same orientation, scale, and chirality.

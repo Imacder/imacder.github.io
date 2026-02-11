@@ -21,7 +21,11 @@ Let the triangle's incenter be $I$.
 When $\angle A$ is fixed (i.e. A is on a circle), then $\angle BIC = 90^\circ + \frac{1}{2} \angle A$ is also a fixed angle.
 Thus, $I$ is also on a circle whose center is the midpoint ($M$) of $\overset{\Large\frown}{BC}$.
 
+[//]: # (TODO: add graph)
+
 ### Special Case
+
+[//]: # (TODO: add graph)
 
 #### Condition
 
@@ -40,6 +44,8 @@ Let the orthocenter be $H$, and the foot of the three heights be $I$ (which is o
 
 ### Properties of $\triangle IJK$
 
+[//]: # (TODO: add graph)
+
 1. Of all the triangles with points on each of $AB,\,BC,\,AC$, $\triangle IJK$ has the least circumference.
 2. $H$ is the incenter of $\triangle IJK$.
 3. Concyclic Groups:
@@ -52,6 +58,8 @@ Let the orthocenter be $H$, and the foot of the three heights be $I$ (which is o
     * $CJKH$
    
 ### Idea
+
+[//]: # (TODO: add graph)
 
 Extend $AO ,\, AH$ to intersect $\odot O$ at $D ,\, E$, $DH$ intersects $BC$ at $F$ then:
 
@@ -74,6 +82,8 @@ These centers are not strictly related to the circle.
 
 Let the centroid be $G$. 
 
+[//]: # (TODO: add graph)
+
 #### Property
 
 Extend $AG$ to intersect $BC$ at $D$, then $AG = 2DG$.
@@ -81,6 +91,8 @@ Extend $AG$ to intersect $BC$ at $D$, then $AG = 2DG$.
 ### Fermat's Point
 
 Let the Fermat's point be $P$.
+
+[//]: # (TODO: add graph)
 
 #### Properties
 

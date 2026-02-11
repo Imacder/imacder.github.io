@@ -5,6 +5,8 @@
 This is literally the definition. </br>
 Occurs in some problems involving folding.
 
+[//]: # (TODO: add graph of fold)
+
 ## Fixed Angle
 
 ### Case 1: With a Fixed Length
@@ -16,6 +18,8 @@ where the angle is $90^\circ$, then the center of the circle is the midpoint of 
 
 1. Incenter path
 2. Foot of some perpendicular construction (as shown below)
+
+[//]: # (TODO: add graph)
 
 ### Case 2: Without Fixed Length
 
@@ -30,12 +34,14 @@ $$ AB = 2 \sin(\theta) r_{\odot} $$
 1. Spotlight (shown below)
 2. R5
 
+[//]: # (TODO: add graph)
+
 ## Fixed Ratio + Fixed Length
 
 This is Apollonius Circle Theorem (also mentioned in [Half Angle Construction](../Half%20Angle%20Construction.md#angle-bisector-theorem).) </br>
 Obviously you can use the Angle Bisector Theorem to derive this, but there's a better way:
 
-
+[//]: # (TODO: add graph)
 
 Let segment be $AB$, and $\frac{CA}{CB} = k$. The $C$ traces $\odot O$.
 
@@ -54,6 +60,7 @@ $$
 This is the standard application, where the circle is given and $BC$ is given, and you need to construct $AC=kBC$.
 Same method as above.
 
+[//]: # (TODO: add graph)
 
 #### Minimize Ratio
 
@@ -64,6 +71,8 @@ the minimum.
 However, this is not the standard way to solve the problem. Most of the time, we can construct a rotation (or some other similar triangle) to transform the
 ratio into a distance. Then we can use methods like [reflection about circle](../Basic%20Structures.md#reflection-about-circle) or something to find the path of one end.
 
+There is also another way to use this, by seeing the circle AS the Apollonius Circle, and constructing the second
+end point. See R(n) for details.
 
 ## Equal Angles
 
@@ -75,13 +84,15 @@ Extend the legs of the two angles so they intersect. The extension may be backwa
 
 When the vertex of one angle is on another's leg, then that leg is tangent to the circle.
 
+[//]: # (TODO: add graph)
+
 ### Application
 
 This is usually used to relate two equal angles.
 
 ### Note
 
-All the angle relationships in the circle can be obtained without the circle but with similar triangles.
+All the angle relationships in the circle can be obtained without the circle but with [similar triangles](Similar%20Triangles%20in%20Circle.md#basic-similarities).
 
 <script>
   window.MathJax = {
