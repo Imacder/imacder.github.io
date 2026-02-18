@@ -69,7 +69,7 @@ where $C$ cannot satisfy being on the circle (so ratio is correct) and the other
 the minimum.
 
 However, this is not the standard way to solve the problem. Most of the time, we can construct a rotation (or some other similar triangle) to transform the
-ratio into a distance. Then we can use methods like [reflection about circle](../Basic%20Structures.md#reflection-about-circle) or something to find the path of one end.
+ratio into a distance. Then we can use methods like [inversion](../Line%20Construction/Intersecting%20Lines/Special%20Case.md#inversion) or something to find the path of one end.
 
 There is also another way to use this, by seeing the circle AS the Apollonius Circle, and constructing the second
 end point. See R(n) for details.

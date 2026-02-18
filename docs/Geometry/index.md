@@ -11,7 +11,7 @@ This section includes some of my results. I'll keep expanding this section to in
 Basic Division:
 
 * [Linear Transformation](LinTrans.md) (LinTrans)
-* [Basic Structures](Basic%20Structures.md) (including some nonlinearties) (BS)
+* [Basic Structures and Ideas](Basic%20Structures%20and%20Ideas.md) (including some nonlinearties) (BS)
 * [Rotations](Rotation/Basic%20Rotation.md) (rot)
 * [Half-angle Constructions](Half%20Angle%20Construction.md) ($\frac{\alpha}{2}$)
 * [Line Construction](Line%20Construction/index.md)
