@@ -1,12 +1,14 @@
 {"Algebra/index.md": {"created": "2026-02-02T19:24:44.618641+08:00"}}
 {"Computer Science/index.md": {"created": "2026-02-02T19:24:44.619040+08:00"}}
-{"Geometry/Basic Structures.md": {"created": "2026-02-05T13:51:59.852889+08:00"}}
+{"Geometry/Basic Structures and Ideas.md": {"created": "2026-02-05T13:51:59.852889+08:00"}}
 {"Geometry/Circles/Basic Structures.md": {"created": "2026-02-04T19:12:10.774350+08:00"}}
 {"Geometry/Circles/Centers of Triangle.md": {"created": "2026-02-05T11:45:35.377485+08:00"}}
 {"Geometry/Circles/Similar Triangles in Circle.md": {"created": "2026-02-11T18:59:52.616472+08:00"}}
 {"Geometry/Circles/index.md": {"created": "2026-02-03T20:53:04.274930+08:00"}}
 {"Geometry/Half Angle Construction.md": {"created": "2026-02-03T09:26:58.369861+08:00"}}
 {"Geometry/LinTrans.md": {"created": "2026-02-02T19:24:44.619608+08:00"}}
+{"Geometry/Line Construction/Intersecting Lines/Basic Structure.md": {"created": "2026-02-16T15:52:03.009604+08:00"}}
+{"Geometry/Line Construction/Intersecting Lines/Special Case.md": {"created": "2026-02-16T18:46:12.831046+08:00"}}
 {"Geometry/Line Construction/Intersecting Lines/index.md": {"created": "2026-02-02T19:24:44.619954+08:00"}}
 {"Geometry/Line Construction/Parallel Lines/Basic Structure.md": {"created": "2026-02-02T19:24:44.620243+08:00"}}
 {"Geometry/Line Construction/Parallel Lines/Dilation.md": {"created": "2026-02-04T13:51:32.149042+08:00"}}
@@ -15,6 +17,7 @@
 {"Geometry/Line Construction/index.md": {"created": "2026-02-02T19:24:44.620677+08:00"}}
 {"Geometry/Rotation/Basic Rotation.md": {"created": "2026-02-02T19:24:44.620943+08:00"}}
 {"Geometry/Rotation/General Rotation.md": {"created": "2026-02-02T19:24:44.621154+08:00"}}
+{"Geometry/Rotation/Rolling Similarity.md": {"created": "2026-02-18T17:03:12.223818+08:00"}}
 {"Geometry/index.md": {"created": "2026-02-02T19:24:44.621348+08:00"}}
 {"Geometry/misc/Linalg.md": {"created": "2026-02-02T19:24:44.621611+08:00"}}
 {"Geometry/misc/Trigs.md": {"created": "2026-02-02T19:24:44.621980+08:00"}}

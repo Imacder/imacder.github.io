@@ -16,6 +16,10 @@ Used when two segments share a vertex, and a line goes through one of the three 
 
 Also, this method doesn't require the segments to be collinear (though most of the time they are.)
 
+## Examples
+
+1. 《核心考点·中考数学》P18 03
+
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}

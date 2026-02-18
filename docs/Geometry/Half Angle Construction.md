@@ -81,6 +81,10 @@ Properties:
 1. The circumcenter $I$ of $\triangle BOC$ is on OC.
 2. If $\angle AOB = 90^\circ$, $OEFBC$ are all on $\odot I$
 
+### Examples
+
+1. 《核心考点·九上》P82 04
+
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
