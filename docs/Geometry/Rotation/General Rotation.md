@@ -12,7 +12,10 @@ This is an idea, rather than actual construction. So some of the construction is
 
 ## Basic Idea
 
-Sometimes the connection to rotational center is unnecessary. However, we usually do need to know that the figure in question DOES contain such a rotation. Usually, either only constructing the rotated triangle or using the center of rotation will yield a solution. But in special circumstances, the only way forward is with the rotational center.
+Sometimes the connection to rotational center is unnecessary. However, we usually do need to know that the figure in 
+question DOES contain such a rotation. Usually, either only constructing the rotated triangle or using the center of 
+rotation will yield a solution. But in special circumstances, the only way forward is with the rotational center. In 
+these case, we can try to combine sides from different rotational pairs to construct a new rotational pair.
 
 ## Examples
 

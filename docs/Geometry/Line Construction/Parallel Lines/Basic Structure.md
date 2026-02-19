@@ -20,6 +20,11 @@ Any single property (except SSA case) can be used to derive the other properties
 
 This basically covers everything, which is expected, as this can substitute analytic geometry.
 
+## Examples
+
+1. R_n
+2. 《核心考点·中考数学》P24 06 (also requires A-type)
+
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}

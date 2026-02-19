@@ -19,6 +19,7 @@ There are actually 2 sub-cases:
 
 1. Collinear products
 2. Concyclic quadrilaterals
+3. When auxiliary parallel lines doesn't give results, try its reflection.
 
 ## Examples
 
