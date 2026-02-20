@@ -8,6 +8,9 @@ Quadrilateral $ABCD$ is inscribed in $\odot O$. $AC$ and $BD$ intersects at $E$.
 
 ## Basic Similarities
 
+Think about these relationships whenever concyclic points appear, particularly in the case where you don't actually
+need the angles in the circle, just side relationships. The same goes for Ptolemy.
+
 ### Inside Quadrilateral
 
 $$ \triangle ABE \sim \triangle DCE $$
