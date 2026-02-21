@@ -1,12 +1,16 @@
-# Special Case
+# Special Case (sA-type)
 
-This is the A-type, but $A$ and $C$ are the same.
+This is the A-type, but $A$ and $D$ are the same.
 
 [//]: # (TODO: add figure)
 
 ## Basic Usage
 
 Just use the [properties](Basic%20Structure.md#properties) like normal.
+
+The only special thing is that this gives squares instead of just products.
+
+$$ OA ^ 2 = OB \cdot OD $$
 
 ### Examples
 
