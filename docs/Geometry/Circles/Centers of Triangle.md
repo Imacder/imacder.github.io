@@ -99,7 +99,7 @@ Let the Fermat's point be $P$.
 1. Of all points in the plane, $P$ minimizes $AP + BP + CP$. (Derived through [rotation](../Rotation/Basic%20Rotation.md))
 2. $\angle APB = \angle BPC = \angle APC = 120^\circ$
 3. Construction of $P$: Construct equilateral triangles with $AB ,\, BC ,\, AC$ as sides, 
-    then connect the other vertex of the equilateral triangle with the other vertex of $\triangle ABC$. Their intersection is $P$.
+    then connect the other vertex of the equilateral triangle with the opposite vertex of $\triangle ABC$. Their intersection is $P$.
 
 <script>
   window.MathJax = {

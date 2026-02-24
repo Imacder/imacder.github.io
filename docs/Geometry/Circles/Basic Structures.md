@@ -12,7 +12,11 @@ Occurs in some problems involving folding.
 ### Case 1: With a Fixed Length
 
 In this case, the vertex traces a fixed circle. There's an even more special case, 
-where the angle is $90^\circ$, then the center of the circle is the midpoint of the fixed segment.
+where the angle is $90^\circ$, then the center of the circle is the midpoint of the fixed segment。
+
+And every chord / arc have a corresponding angle. In some cases, the corresponding angle is given, 
+and it can be used to derive other angles directly. When the radius of the circle and the chord length are given, 
+we'll have to calculate its corresponding angle. The most common case is with the diameter.
 
 #### Examples:
 

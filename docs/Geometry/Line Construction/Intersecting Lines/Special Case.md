@@ -46,6 +46,7 @@ Derivation:
 
 #### Usage
 
+[//]: # (temp message: transform the denominator to a fixed segment, connection to circles)
 1. Used to solve ratio extremum (R_n)
 2. Find locus (usually the $OP \cdot OP' = r^2$ is derived)
 

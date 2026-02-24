@@ -22,7 +22,7 @@ This basically covers everything, which is expected, as this can substitute anal
 
 ## Examples
 
-1. R_n
+1. R_n (hidden special point on the locus that generates parallel lines)
 2. 《核心考点·中考数学》P24 06 (also requires A-type)
 
 <script>
