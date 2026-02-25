@@ -9,6 +9,8 @@ This is basically a cheatsheet of all the useful structures.
 3. [Fixed Ratio to Fixed Endpoints &rArr; Circle](Circles/Basic%20Structures.md#fixed-ratio-fixed-length)
 4. All the [Linear Transformation](LinTrans.md) Techniques
 5. [Inversion (Reflection About Circle)](Line%20Construction/Intersecting%20Lines/Special%20Case.md#inversion)
+6. Fixed Angle + Fixed Intersection (with another line) &rArr; Line
+7. 2 Fixed Points &rArr; Line
 
 ## List of Ideas
 

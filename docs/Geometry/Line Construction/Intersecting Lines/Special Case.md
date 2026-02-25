@@ -77,7 +77,7 @@ isn't a line (so it's a circle).
 
 Since there is NO fixed angles here, if we want to go forward with this method, we need to construct our own.
 Try with $BH \perp l$, this will characterize l with the distance from $B$ to $l$, and give use a fixed angle.
-However, this construction doesn't work because unlike in inversion, the relationship given here cannot given us
+However, this construction doesn't work because unlike in inversion, the relationship given here cannot give us
 another triangle (containing $Q$ as the $90^\circ$ vertex) similar to $\triangle BHP$.
 
 Try with Apollonius Circle. There are only two fixed points $A$ and $B$, $A$ is on the locus, therefore we can guess
