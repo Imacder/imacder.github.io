@@ -1080,6 +1080,56 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#bonus-problem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bonus Problem
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#idea" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Idea
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Idea">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solution-1_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solution 1
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solution-2_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solution 2
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1132,6 +1182,34 @@
     
   
     R8
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../R9/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    R9
   
 
     
@@ -2014,6 +2092,56 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#bonus-problem" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bonus Problem
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#idea" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Idea
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Idea">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solution-1_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solution 1
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solution-2_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solution 2
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2059,6 +2187,31 @@ be all in terms of <span class="arithmatex">\(AP\)</span> and the diagonals to b
 <p>An easy way to do this will be to treat <span class="arithmatex">\(\odot O\)</span> as a Apollonius Circle. By constructing the corresponding point of
 <span class="arithmatex">\(A\)</span> (<span class="arithmatex">\(Q\)</span>), we can create another segment (<span class="arithmatex">\(PQ\)</span>) in terms of <span class="arithmatex">\(AP\)</span>. Then the problem can be solved by applying Ptolemy
 on the quadrilateral <span class="arithmatex">\(ABQP\)</span>.</p>
+<h2 id="bonus-problem">Bonus Problem</h2>
+<p>Given a isosceles triangle <span class="arithmatex">\(\triangle ABC\)</span> with <span class="arithmatex">\(\angle BAC = 120\)</span>. <span class="arithmatex">\(E\)</span> is on <span class="arithmatex">\(BC\)</span>, <span class="arithmatex">\(F\)</span> is on <span class="arithmatex">\(AC\)</span>, and <span class="arithmatex">\(BE = \sqrt{3} CF\)</span>.
+Find <span class="arithmatex">\(\max(\frac{AE}{EF})\)</span>.</p>
+<h2 id="idea">Idea</h2>
+<p>Same as Idea 1.</p>
+<h3 id="solution-1_1">Solution 1</h3>
+<p>We can consider reflecting <span class="arithmatex">\(EF\)</span> onto <span class="arithmatex">\(AC\)</span> (A-type: <span class="arithmatex">\(\triangle AEF \sim \triangle ACD\)</span>). <span class="arithmatex">\(EDCF\)</span> are concyclic &rArr;
+<span class="arithmatex">\(\angle ADF = \angle ACB = 30^\circ\)</span>. We now want to find the locus of <span class="arithmatex">\(D\)</span>.</p>
+<p>Let DF and EC intersect at <span class="arithmatex">\(G\)</span>. With <span class="arithmatex">\(\angle ADF = 30^\circ\)</span>, we can think of two things:</p>
+<ol>
+<li><span class="arithmatex">\(ABDG\)</span> are concyclic.</li>
+<li>The angle might be formed by a rotation. (Because rotation is common in this knd of <span class="arithmatex">\(BD-CF\)</span> setup and the angles match.)</li>
+</ol>
+<p>From the concyclic property, we find <span class="arithmatex">\(\angle FGC = \angle EGD = \angle AEB\)</span> &rArr; rotation: <span class="arithmatex">\(\triangle ABE \sim \triangle GCF\)</span>.
+Thus, <span class="arithmatex">\(G\)</span> can be proven to be a fixpoint, and with <span class="arithmatex">\(\angle ADG = 30^\circ\)</span>, the problem is solved.</p>
+<h3 id="solution-2_1">Solution 2</h3>
+<p>We rotate <span class="arithmatex">\(\triangle AEF \sim \triangle ABG\)</span> and try to find the locus of <span class="arithmatex">\(G\)</span> and minimize <span class="arithmatex">\(EF\)</span>. </p>
+<p>From the second pair, we get <span class="arithmatex">\(\angle AGF = \angle ABE = \angle ACB\)</span>. Let <span class="arithmatex">\(AG\)</span> and <span class="arithmatex">\(BC\)</span> intersect at <span class="arithmatex">\(D\)</span>. <span class="arithmatex">\(CGDF\)</span> is concyclic.
+When <span class="arithmatex">\(E\)</span> moves from <span class="arithmatex">\(B\)</span> to <span class="arithmatex">\(C\)</span>, we find that <span class="arithmatex">\(G\)</span> moves from <span class="arithmatex">\(C\)</span> to <span class="arithmatex">\(A\)</span>. We postulate that <span class="arithmatex">\(\angle AGC\)</span> is fixed, but
+we've already established that <span class="arithmatex">\(\angle AGF = 30^\circ\)</span>, so we need to find <span class="arithmatex">\(\angle FDC\)</span>.</p>
+<p>We notice that <span class="arithmatex">\(\triangle ABE \cong \triangle ACD\)</span> because they're symmetric by reflection. (The congruence here is a special case,
+in the general version of this problem, we need to construct that concyclic group <span class="arithmatex">\(GCDF\)</span> manually and we get a similarity.)
+Then from the ratio given, we can find <span class="arithmatex">\(\angle FDC = 30^\circ\)</span>. The problem is trivial from here.</p>
+<p>Solution 1 is definitely the go-to method to solve this problem. Solution 2 is just to demonstrate that any path can lead
+to a solution.</p>
 <script>
   window.MathJax = {
     tex: {inlineMath: [['$', '$'], ['\\(', '\\)']]}
