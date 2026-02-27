@@ -35,7 +35,7 @@ With fixpoint D and $QD = \frac{AB^2}{AP}$, we can solve the problem with invers
 
 Based on the reduced version, we can try constructing $\triangle ABP \sim \triangle CQP \sim \triangle DQB$. (This is where
 this structure gets its name: we first rotate about $P$ then about $Q$.) This gives $QD \cdot AP = AB \cdot BD$. 
-We can speculate that D is a fixpoint, then the problem is solved.
+We can postulate that D is a fixpoint, then the problem is solved.
 
 To prove this, we notice that when we constructed the similar triangle, we also constructed $\triangle PBQ$, which is
 one of the rotation's second set of similar triangles. We can connect $CD$, and we can find $CD = AB$ via
