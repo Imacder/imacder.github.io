@@ -1,4 +1,5 @@
 site_name: Imacder's Notes
+site_url: https://imacder.github.io/
 theme:
   name: material
   features:

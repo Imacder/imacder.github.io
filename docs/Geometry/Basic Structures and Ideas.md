@@ -23,6 +23,9 @@ This is basically a cheatsheet of all the useful structures.
 4. Try to use transformation to ensure the parts you are trying to relate are in the same orientation, scale, and chirality.
 5. When trying to find a locus of a point, try finding a fixpoint related to the point, then find the locus via the relationship.
 6. Try simpler versions of the problem (special cases) to get of feeling of the problem.
+7. To determine if a given figure is locked down (the shape can be nailed down), we can count the number of points
+    $n$. If there are $n - 4$ constraints, the figure is fixed. Add 1 more constraint the also lock down the size.
+   (This is used to determined whether a condition has been effectively used.)
 
 <script>
   window.MathJax = {

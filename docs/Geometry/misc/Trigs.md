@@ -34,6 +34,10 @@ $$
 \end{align*}
 $$
 
+When $ y = \pi $
+
+$$ \tan(x + \pi) = -\frac{1}{\tan{x}} $$
+
 ## Sine / Cosine Formula
 
 ### Sine Formula
