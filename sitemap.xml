@@ -2,130 +2,506 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://imacder.github.io/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Algebra/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Computer%20Science/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Circles%2C%20Pythagorean%20Theorem%2C%20Bipartite%20Graphs%2C%20Gaussian%20Primes%2C%20Number%20Theory%2C%20and%20Pi/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Combinatorics/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/DP/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Global%20BST/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Graph%20Theory/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Hashing/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Ideas/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/K-th%20Partial%20Order/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/LGV%20Lemma/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Linear%20Algebra/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Main/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Matrix%20Tree/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Network%20Flow%20Graph%20Modeling/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Number%20Theory/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Permutation%20DP/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Potential%20Function%20Construction/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Probability%20Theory/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Random%20Facts/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Range%20Algorithms/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/SA/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/SAM/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Spanning%20Tree/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/String%20Processing/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Useful%20Chats/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Warning/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Z-Field%20Inequalities/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/AGC049E%20Increment%20Decrement/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/AGC067B%20Modification/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/ARC123D%20Inc%2C%20Dec%20-%20Decomposition/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/CF1083E%20The%20Fair%20Nut%20and%20Rectangles/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/Galaxy%20Generator/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/NOI2022%20%E7%A7%BB%E9%99%A4%E7%9F%B3%E5%AD%90/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/NOI2025%20%E5%AF%BF%E5%8F%B8%E6%99%9A%E5%AE%B4/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/NOIP2023%20%20%E5%A4%A9%E5%A4%A9%E7%88%B1%E6%89%93%E5%8D%A1/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/QOJ8007%20Egg%20Drop%20Challenge/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D1/%E4%B8%80%E9%81%93%E6%88%91%E4%B8%8D%E7%9F%A5%E9%81%93%E5%8E%9F%E9%A2%98%E6%98%AF%E4%BB%80%E4%B9%88%E7%9A%84%E9%A2%98/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D10/P5304/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D11/CF527E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D11/P2371/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D12/P2774/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/ARC105E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/ARC124E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF1418E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF1418G/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF1637E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF2002E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF2066D2/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF2109E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D13/CF2147F/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D2/CF1051E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D2/CF241B%20Friends/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D2/CF888G%20Xor-MST/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D2/FJOI2022%20%E9%87%8D%E5%A4%8D%E5%87%BD%E6%95%B0/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D2/Palindrome%20Partition/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D2/nikkei2019-2-final%20%E9%80%86%E3%81%AB%E3%81%99%E3%82%8B%E5%87%BD%E6%95%B0/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D3/IMO2026%20D1P1/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D3/P8854/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D3/P9238%20%E7%BF%BB%E8%BD%AC%E7%A1%AC%E5%B8%81/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D4/CF1994F%20Stardew%20Valley/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D4/P9697%20Canvas/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/AGC006A%20Adjacent%20Difference/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/AGC029F%20Construction%20of%20a%20tree/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/CF1286C2%20Madhouse/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/CF1370F2%20The%20Hidden%20Pair/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/CF1667C%20Half%20Queen%20Cover/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/CF1770H%20Koxia%2C%20Mahiru%20and%20Winter%20Fesitval/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/IOI%202025%20Triple%20Peaks/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/P11984%20JOIST%202025%20%E5%8D%A0%E5%8D%9C%203/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/QOJ141%208%20%E6%9F%93%E8%89%B2/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D5/QOJ962%20Thanks%20to%20Mike%20Mirzayanov/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D6/AGC032F%20One%20Third/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D6/BZOJ4665%20%E5%B0%8F%20w%20%E7%9A%84%E5%96%9C%E7%B3%96/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D6/P10982%20Connected%20Graph/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D6/P1654%20OSU%21/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D6/P3175%20HAOI2015%20%E6%8C%89%E4%BD%8D%E6%88%96/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D6/P3349%20ZJOI2016%20%E5%B0%8F%E6%98%9F%E6%98%9F/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P14839%20THUPC2026%20%E9%9B%86%E5%90%88/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P15313%20%E5%90%91%E6%9C%AA%E6%9D%A5%E8%AF%B4%E4%BD%A0%E5%A5%BD/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P15482%20Jewel%20Heist/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P16625%20GKS%202017%20D%20Sherlock%20and%20Matrix%20Game/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P4775%20NOI2018%20%E6%83%85%E6%8A%A5%E4%B8%AD%E5%BF%83/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P6773%20NOI2020%20%E5%91%BD%E8%BF%90/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/P8496%20NOI2022%20%E4%BC%97%E6%95%B0/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/QOJ10100%20%E4%BA%A4%E6%8D%A2%20Kubic%203/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D7/QOJ964/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D8/P9623%20Baby%27s%20First%20Suffix%20Array%20Problem/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D9/CF1292E/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D9/CF1406E%20Deleting%20Numbers/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D9/CF1726%20GCD%20Queries/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/D9/CF1764G%20Doremy%27s%20Perfect%20DS%20Class/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Computer%20Science/Problems/Quick%20Practice/R1/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Analytic%20Euclidean%20Geometry/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Basic%20Structures%20and%20Ideas/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Geometry/Extremum%20Analysis/</loc>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Geometry/General%20Methodology/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Half%20Angle%20Construction/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
+    </url>
+    <url>
+         <loc>https://imacder.github.io/Geometry/Inversions%20%26%20M%C3%B6bius%20Transformations/</loc>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/LinTrans/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Circles/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Circles/Basic%20Structures/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Circles/Centers%20of%20Triangle/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Circles/Similar%20Triangles%20in%20Circle/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Example%20Problems/R6/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Example%20Problems/R7/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Example%20Problems/R8/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Example%20Problems/R9/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Intersecting%20Lines/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Intersecting%20Lines/Basic%20Structure/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Intersecting%20Lines/Extra%20Special%20Case/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Intersecting%20Lines/Special%20Case/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Parallel%20Lines/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Parallel%20Lines/Basic%20Structure/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Parallel%20Lines/Dilation/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Line%20Construction/Parallel%20Lines/Midline/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Rotation/Basic%20Rotation/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Rotation/General%20Rotation/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Rotation/L3A/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/Rotation/Rolling%20Similarity/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/misc/High%20Order%20Equation%20Solving/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/misc/Linalg/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
     <url>
          <loc>https://imacder.github.io/Geometry/misc/Trigs/</loc>
-         <lastmod>2026-07-15</lastmod>
+         <lastmod>2026-08-20</lastmod>
     </url>
 </urlset>
