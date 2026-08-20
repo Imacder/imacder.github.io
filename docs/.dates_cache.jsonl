@@ -1,4 +1,95 @@
 {"Algebra/index.md": {"created": "2026-02-02T19:24:44.618641+08:00"}}
+{"Computer Science/Circles, Pythagorean Theorem, Bipartite Graphs, Gaussian Primes, Number Theory, and Pi.md": {"created": "2026-08-03T13:30:48+08:00"}}
+{"Computer Science/Combinatorics.md": {"created": "2026-08-05T09:30:18+08:00"}}
+{"Computer Science/DP.md": {"created": "2026-08-06T11:24:10+08:00"}}
+{"Computer Science/Global BST.md": {"created": "2026-07-31T13:52:50+08:00"}}
+{"Computer Science/Graph Theory.md": {"created": "2026-08-12T21:44:40+08:00"}}
+{"Computer Science/Hashing.md": {"created": "2026-08-03T21:42:00+08:00"}}
+{"Computer Science/Ideas.md": {"created": "2026-08-15T20:50:36+08:00"}}
+{"Computer Science/K-th Partial Order.md": {"created": "2026-07-25T12:47:50+08:00"}}
+{"Computer Science/LGV Lemma.md": {"created": "2026-08-04T20:38:08+08:00"}}
+{"Computer Science/Linear Algebra.md": {"created": "2026-08-04T21:41:02+08:00"}}
+{"Computer Science/Main.md": {"created": "2026-07-30T22:03:44+08:00"}}
+{"Computer Science/Matrix Tree.md": {"created": "2026-08-04T21:52:56+08:00"}}
+{"Computer Science/Network Flow Graph Modeling.md": {"created": "2026-08-13T23:02:26+08:00"}}
+{"Computer Science/Number Theory.md": {"created": "2026-08-01T16:50:28+08:00"}}
+{"Computer Science/Permutation DP.md": {"created": "2026-07-27T21:38:04+08:00"}}
+{"Computer Science/Potential Function Construction.md": {"created": "2026-07-21T09:29:54+08:00"}}
+{"Computer Science/Probability Theory.md": {"created": "2026-08-04T22:08:24+08:00"}}
+{"Computer Science/Problems/D1/AGC049E Increment Decrement.md": {"created": "2026-07-30T12:07:20+08:00"}}
+{"Computer Science/Problems/D1/AGC067B Modification.md": {"created": "2026-07-30T11:04:38+08:00"}}
+{"Computer Science/Problems/D1/ARC123D Inc, Dec - Decomposition.md": {"created": "2026-07-30T16:19:02+08:00"}}
+{"Computer Science/Problems/D1/CF1083E The Fair Nut and Rectangles.md": {"created": "2026-07-30T15:50:32+08:00"}}
+{"Computer Science/Problems/D1/Galaxy Generator.md": {"created": "2026-07-30T09:00:24+08:00"}}
+{"Computer Science/Problems/D1/NOI2022 移除石子.md": {"created": "2026-07-30T10:09:10+08:00"}}
+{"Computer Science/Problems/D1/NOI2025 寿司晚宴.md": {"created": "2026-07-30T09:17:10+08:00"}}
+{"Computer Science/Problems/D1/NOIP2023  天天爱打卡.md": {"created": "2026-07-30T14:12:04+08:00"}}
+{"Computer Science/Problems/D1/QOJ8007 Egg Drop Challenge.md": {"created": "2026-07-30T16:00:18+08:00"}}
+{"Computer Science/Problems/D1/一道我不知道原题是什么的题.md": {"created": "2026-07-30T14:00:22+08:00"}}
+{"Computer Science/Problems/D10/P5304.md": {"created": "2026-08-10T14:47:36+08:00"}}
+{"Computer Science/Problems/D11/CF527E.md": {"created": "2026-08-11T10:37:00+08:00"}}
+{"Computer Science/Problems/D11/P2371.md": {"created": "2026-08-11T09:08:24+08:00"}}
+{"Computer Science/Problems/D12/P2774.md": {"created": "2026-08-13T09:02:12+08:00"}}
+{"Computer Science/Problems/D13/ARC105E.md": {"created": "2026-08-18T15:21:30+08:00"}}
+{"Computer Science/Problems/D13/ARC124E.md": {"created": "2026-08-14T21:59:44+08:00"}}
+{"Computer Science/Problems/D13/CF1418E.md": {"created": "2026-08-14T09:15:06+08:00"}}
+{"Computer Science/Problems/D13/CF1418G.md": {"created": "2026-08-14T10:17:26+08:00"}}
+{"Computer Science/Problems/D13/CF1637E.md": {"created": "2026-08-14T09:00:54+08:00"}}
+{"Computer Science/Problems/D13/CF2002E.md": {"created": "2026-08-14T10:48:38+08:00"}}
+{"Computer Science/Problems/D13/CF2066D2.md": {"created": "2026-08-14T15:33:32+08:00"}}
+{"Computer Science/Problems/D13/CF2109E.md": {"created": "2026-08-14T15:25:58+08:00"}}
+{"Computer Science/Problems/D13/CF2147F.md": {"created": "2026-08-14T09:42:58+08:00"}}
+{"Computer Science/Problems/D2/CF1051E.md": {"created": "2026-07-31T11:06:52+08:00"}}
+{"Computer Science/Problems/D2/CF241B Friends.md": {"created": "2026-07-31T09:14:20+08:00"}}
+{"Computer Science/Problems/D2/CF888G Xor-MST.md": {"created": "2026-08-06T12:01:42+08:00"}}
+{"Computer Science/Problems/D2/FJOI2022 重复函数.md": {"created": "2026-07-31T15:28:44+08:00"}}
+{"Computer Science/Problems/D2/Palindrome Partition.md": {"created": "2026-08-06T12:00:54+08:00"}}
+{"Computer Science/Problems/D2/nikkei2019-2-final 逆にする函数.md": {"created": "2026-07-31T10:06:00+08:00"}}
+{"Computer Science/Problems/D3/IMO2026 D1P1.md": {"created": "2026-08-01T09:48:54+08:00"}}
+{"Computer Science/Problems/D3/P8854.md": {"created": "2026-08-01T11:15:32+08:00"}}
+{"Computer Science/Problems/D3/P9238 翻转硬币.md": {"created": "2026-08-01T09:49:08+08:00"}}
+{"Computer Science/Problems/D4/CF1994F Stardew Valley.md": {"created": "2026-08-02T17:07:32+08:00"}}
+{"Computer Science/Problems/D4/P9697 Canvas.md": {"created": "2026-08-02T15:57:30+08:00"}}
+{"Computer Science/Problems/D5/AGC006A Adjacent Difference.md": {"created": "2026-08-03T09:26:48+08:00"}}
+{"Computer Science/Problems/D5/AGC029F Construction of a tree.md": {"created": "2026-08-03T22:01:44+08:00"}}
+{"Computer Science/Problems/D5/CF1286C2 Madhouse.md": {"created": "2026-08-03T21:47:04+08:00"}}
+{"Computer Science/Problems/D5/CF1370F2 The Hidden Pair.md": {"created": "2026-08-03T14:01:42+08:00"}}
+{"Computer Science/Problems/D5/CF1667C Half Queen Cover.md": {"created": "2026-08-03T21:55:12+08:00"}}
+{"Computer Science/Problems/D5/CF1770H Koxia, Mahiru and Winter Fesitval.md": {"created": "2026-08-03T11:18:48+08:00"}}
+{"Computer Science/Problems/D5/IOI 2025 Triple Peaks.md": {"created": "2026-08-03T21:48:12+08:00"}}
+{"Computer Science/Problems/D5/P11984 JOIST 2025 占卜 3.md": {"created": "2026-08-03T14:45:42+08:00"}}
+{"Computer Science/Problems/D5/QOJ141 8 染色.md": {"created": "2026-08-03T14:39:06+08:00"}}
+{"Computer Science/Problems/D5/QOJ962 Thanks to Mike Mirzayanov.md": {"created": "2026-08-03T10:12:56+08:00"}}
+{"Computer Science/Problems/D6/AGC032F One Third.md": {"created": "2026-08-04T10:23:44+08:00"}}
+{"Computer Science/Problems/D6/BZOJ4665 小 w 的喜糖.md": {"created": "2026-08-04T11:14:46+08:00"}}
+{"Computer Science/Problems/D6/P10982 Connected Graph.md": {"created": "2026-08-04T13:13:30+08:00"}}
+{"Computer Science/Problems/D6/P1654 OSU!.md": {"created": "2026-08-04T10:20:46+08:00"}}
+{"Computer Science/Problems/D6/P3175 HAOI2015 按位或.md": {"created": "2026-08-04T22:23:58+08:00"}}
+{"Computer Science/Problems/D6/P3349 ZJOI2016 小星星.md": {"created": "2026-08-04T22:34:44+08:00"}}
+{"Computer Science/Problems/D7/P14839 THUPC2026 集合.md": {"created": "2026-08-05T13:52:34+08:00"}}
+{"Computer Science/Problems/D7/P15313 向未来说你好.md": {"created": "2026-08-05T12:57:08+08:00"}}
+{"Computer Science/Problems/D7/P15482 Jewel Heist.md": {"created": "2026-08-05T09:35:48+08:00"}}
+{"Computer Science/Problems/D7/P16625 GKS 2017 D Sherlock and Matrix Game.md": {"created": "2026-08-05T09:11:04+08:00"}}
+{"Computer Science/Problems/D7/P4775 NOI2018 情报中心.md": {"created": "2026-08-06T10:54:26+08:00"}}
+{"Computer Science/Problems/D7/P6773 NOI2020 命运.md": {"created": "2026-08-06T16:02:04+08:00"}}
+{"Computer Science/Problems/D7/P8496 NOI2022 众数.md": {"created": "2026-08-06T11:02:14+08:00"}}
+{"Computer Science/Problems/D7/QOJ10100 交换 Kubic 3.md": {"created": "2026-08-07T15:10:26+08:00"}}
+{"Computer Science/Problems/D7/QOJ964.md": {"created": "2026-08-07T19:59:46+08:00"}}
+{"Computer Science/Problems/D8/P9623 Baby's First Suffix Array Problem.md": {"created": "2026-08-07T17:18:40+08:00"}}
+{"Computer Science/Problems/D9/CF1292E.md": {"created": "2026-08-08T19:05:26+08:00"}}
+{"Computer Science/Problems/D9/CF1406E Deleting Numbers.md": {"created": "2026-08-08T10:24:40+08:00"}}
+{"Computer Science/Problems/D9/CF1726 GCD Queries.md": {"created": "2026-08-08T10:04:44+08:00"}}
+{"Computer Science/Problems/D9/CF1764G Doremy's Perfect DS Class.md": {"created": "2026-08-10T22:49:44+08:00"}}
+{"Computer Science/Problems/Quick Practice/R1.md": {"created": "2026-08-06T12:44:58+08:00"}}
+{"Computer Science/Random Facts.md": {"created": "2026-08-10T16:49:00+08:00"}}
+{"Computer Science/Range Algorithms.md": {"created": "2026-07-24T14:04:00+08:00"}}
+{"Computer Science/SA.md": {"created": "2026-08-07T15:09:44+08:00"}}
+{"Computer Science/SAM.md": {"created": "2026-08-02T13:36:52+08:00"}}
+{"Computer Science/Spanning Tree.md": {"created": "2026-08-11T21:40:46+08:00"}}
+{"Computer Science/String Processing.md": {"created": "2026-08-06T11:37:54+08:00"}}
+{"Computer Science/Useful Chats.md": {"created": "2026-07-25T11:04:02+08:00"}}
+{"Computer Science/Warning.md": {"created": "2026-08-09T19:58:36+08:00"}}
+{"Computer Science/Z-Field Inequalities.md": {"created": "2026-07-27T13:34:46+08:00"}}
 {"Computer Science/index.md": {"created": "2026-02-02T19:24:44.619040+08:00"}}
 {"Geometry/Analytic Euclidean Geometry.md": {"created": "2026-03-13T22:14:49.568254+08:00"}}
 {"Geometry/Basic Structures and Ideas.md": {"created": "2026-02-05T13:51:59.852889+08:00"}}
@@ -10,7 +101,10 @@
 {"Geometry/Example Problems/R7.md": {"created": "2026-02-24T13:14:30.978402+08:00"}}
 {"Geometry/Example Problems/R8.md": {"created": "2026-02-25T11:36:52.958569+08:00"}}
 {"Geometry/Example Problems/R9.md": {"created": "2026-02-27T09:50:01.836911+08:00"}}
+{"Geometry/Extremum Analysis.md": {"created": "2026-08-20T18:28:38.766293+08:00"}}
+{"Geometry/General Methodology.md": {"created": "2026-08-20T15:24:47.155249+08:00"}}
 {"Geometry/Half Angle Construction.md": {"created": "2026-02-03T09:26:58.369861+08:00"}}
+{"Geometry/Inversions & Möbius Transformations.md": {"created": "2026-08-19T15:23:01.030086+08:00"}}
 {"Geometry/LinTrans.md": {"created": "2026-02-02T19:24:44.619608+08:00"}}
 {"Geometry/Line Construction/Intersecting Lines/Basic Structure.md": {"created": "2026-02-16T15:52:03.009604+08:00"}}
 {"Geometry/Line Construction/Intersecting Lines/Extra Special Case.md": {"created": "2026-02-21T10:27:42.400413+08:00"}}

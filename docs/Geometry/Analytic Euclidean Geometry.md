@@ -65,3 +65,4 @@ Fixed Center + Fixed Length &rArr; Circle </br>
 (The other characterizations must be converted into this)
 
 Solution: Connect the centers of the circles. Along with the known radii, we can solve the triangle with SSS.
+

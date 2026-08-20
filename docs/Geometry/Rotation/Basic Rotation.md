@@ -43,7 +43,7 @@ Let segments be $AB ,\, A'B'$
 2. Construct $\odot ASA' ,\, \odot BSB'$
 3. The circle's intersection (other that $S$) is the rotational center
 
-This is AA construction + derive from concyclic points.
+This is AA construction + derive from concyclic points. This also signifies that whenever the angle between 2 segments is fixed and the segment's ratios is fixed, then a rotation must exist.
 
 #### Note
 If S is the same as $A / B / C / D$, then construct tangent circles (in property notes.)

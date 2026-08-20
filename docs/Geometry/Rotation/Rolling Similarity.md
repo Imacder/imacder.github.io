@@ -45,6 +45,10 @@ intersect QC also works.) Therefore, $D$ is fixed.
 
 We can also think about constructing the fixpoint D first with the second similarity, then work back to the original rotation.
 
+## Why This Works
+
+We want to construct 
+
 ## Relationships to Other Topics
 
 ### L3A

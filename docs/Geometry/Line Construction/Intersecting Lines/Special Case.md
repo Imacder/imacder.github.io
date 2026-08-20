@@ -86,8 +86,13 @@ the equation, we can see the similarity ratio of $\triangle PAB \sim \triangle P
 That actually allows use to backtrack to $B'P = BP$, and since $B'$ needs to be fixed, $B$ and $B'$ are mirrored about $l$.
 
 With this thought process, we can also see why $P$ **has to be** on a line. When $P$ is on a circle, we can still construct
-$B'$ with Apollonius Circle. But $B'P \neq BP$, going against "backtrack to $B'P = BP$", therefore the locus is some much more
-complex 4th order thing.
+$B'$ with Apollonius Circle. But $B'P \neq BP$, going against "backtrack to $B'P = BP$", therefore the locus is some much more complex 4th order thing.
+
+#### General Solution
+
+We can generalize this problem setup. Instead of a simple sA-type, we can instead do the flip on a rolling similarity case. Essentially you still have the same similar triangle condition, but one of the triangles is mirrored
+
+The idea is much simpler: if we have a reflection, simply reflect it back. We can reflect one of the triangles across $l$ and we get a typical rolling similarity.
 
 ### Further Reading
 
